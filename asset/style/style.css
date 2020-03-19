@@ -14,7 +14,7 @@
     background-color: rgb(4, 104, 199);
     color: white;
 }
-.hover{
+.navbar a:hover{
     background-color:rebeccapurple;
     color: white;
 }
